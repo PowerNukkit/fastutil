@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>fastutil-set-parent</artifactId>
-        <groupId>com.nukkitx.fastutil</groupId>
+        <groupId>org.powernukkit.fastutil</groupId>
         <version>8.3.1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -14,52 +14,52 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-object-sets</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-reference-sets</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-boolean-sets</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-byte-sets</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-char-sets</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-short-sets</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-int-sets</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-long-sets</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-float-sets</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-double-sets</artifactId>
             <version>8.3.1</version>
         </dependency>

@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.nukkitx.fastutil</groupId>
+    <groupId>org.powernukkit.fastutil</groupId>
     <artifactId>fastutil-parent</artifactId>
     <packaging>pom</packaging>
     <name>fastutil</name>
@@ -64,13 +64,8 @@
     <distributionManagement>
         <repository>
             <id>releases</id>
-            <name>nukkitx-releases</name>
-            <url>https://repo.nukkitx.com/release</url>
+            <name>powernukkit-releases</name>
+            <url>https://api.bintray.com/maven/powernukkit/powernukkit/powernukkit/</url>
         </repository>
-        <snapshotRepository>
-            <id>snapshots</id>
-            <name>nukkitx-snapshots</name>
-            <url>https://repo.nukkitx.com/snapshot</url>
-        </snapshotRepository>
     </distributionManagement>
 </project>

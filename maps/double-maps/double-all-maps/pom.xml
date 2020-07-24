@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>fastutil-double-map-parent</artifactId>
-        <groupId>com.nukkitx.fastutil</groupId>
+        <groupId>org.powernukkit.fastutil</groupId>
         <version>8.3.1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -14,52 +14,52 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-double-object-maps</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-double-reference-maps</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-double-boolean-maps</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-double-byte-maps</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-double-char-maps</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-double-short-maps</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-double-int-maps</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-double-long-maps</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-double-float-maps</artifactId>
             <version>8.3.1</version>
         </dependency>
         <dependency>
-            <groupId>com.nukkitx.fastutil</groupId>
+            <groupId>org.powernukkit.fastutil</groupId>
             <artifactId>fastutil-double-double-maps</artifactId>
             <version>8.3.1</version>
         </dependency>
