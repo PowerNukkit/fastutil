@@ -65,7 +65,7 @@
         <repository>
             <id>releases</id>
             <name>powernukkit-releases</name>
-            <url>https://api.bintray.com/maven/powernukkit/powernukkit/powernukkit/</url>
+            <url>https://api.bintray.com/maven/powernukkit/powernukkit/fastutil/;publish=1</url>
         </repository>
     </distributionManagement>
 </project>
